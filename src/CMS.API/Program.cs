@@ -1,3 +1,4 @@
+using CMS.API;
 using CMS.Core.Domain.Identity;
 using CMS.Data;
 using Microsoft.AspNetCore.Identity;
@@ -56,5 +57,7 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+//Seeding data
+app.MigrateDatabase();
 
 app.Run();
