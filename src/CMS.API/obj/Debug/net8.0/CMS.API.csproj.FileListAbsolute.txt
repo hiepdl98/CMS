@@ -79,3 +79,5 @@ D:\Git\CMS\CMS\src\CMS.API\obj\Debug\net8.0\refint\CMS.API.dll
 D:\Git\CMS\CMS\src\CMS.API\obj\Debug\net8.0\CMS.API.pdb
 D:\Git\CMS\CMS\src\CMS.API\obj\Debug\net8.0\CMS.API.genruntimeconfig.cache
 D:\Git\CMS\CMS\src\CMS.API\obj\Debug\net8.0\ref\CMS.API.dll
+D:\Git\CMS\CMS\src\CMS.API\bin\Debug\net8.0\AutoMapper.dll
+D:\Git\CMS\CMS\src\CMS.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
